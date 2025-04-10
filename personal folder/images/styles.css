@@ -1,0 +1,41 @@
+body {
+    color: rgb(51, 208, 208);
+    font-size: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    padding: 10px;
+    text-transform: uppercase;
+    color: rgb(51, 208, 208);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5em;
+    background-color: aliceblue;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid rgb(51, 208, 208);
+    max-width: 100%;
+    height: auto;
+}
